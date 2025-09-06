@@ -4,7 +4,9 @@
 
 ![Neon Banner](https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=200&section=header&text=Java%20Developer&fontSize=50&fontColor=ffffff&animation=twinkling)
 
-> Middle Java Developer • Чистый код, тесты, автоматизация.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Middle+Java+Developer;Clean+Code+Enthusiast;Bug+Hunter+%26+Fixer;Coffee+%2B+Code+%3D+Life;Always+Learning+New+Tech)](https://git.io/typing-svg)
+
+> ⚡️ Coding like a hacker • building like an engineer ⚡️  
 
 </div>
 
