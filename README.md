@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨⚡️ Привет, я Олег ⚡️✨
+# ✨⚡️ hi_i'am_Oleg ⚡️✨
 
 ![Neon Banner](https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=200&section=header&text=Java%20Developer&fontSize=50&fontColor=ffffff&animation=twinkling)
 
