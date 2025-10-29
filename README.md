@@ -1,7 +1,7 @@
 
  
 
- <img src="https://i.postimg.cc/g24H8DF4/4804703a782bc8bdec558c7a0885ff06-2-2-2.jpg" width="44%" align="center" />
+ <img src="https://i.postimg.cc/g24H8DF4/4804703a782bc8bdec558c7a0885ff06-2-2-2.jpg" width="48%" align="center" />
  <div align="center">
 
   <!-- стрелки от узла: влево -> Telegram, вправо -> Email (центрированный узел NETWORK) -->
