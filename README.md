@@ -19,7 +19,6 @@
     <img src="https://img.shields.io/badge/●%20hi_i'am_Oleg-000000?style=for-the-badge&logo=ghost&logoColor=39FF14" alt="hi" />
     <span style="color:#39FF14; font-weight:700; font-size:18px;">◀────</span>
     <img src="https://img.shields.io/badge/Focus-Backend%20|%20Testing-000000?style=for-the-badge&logo=linux&logoColor=39FF14" alt="focus" />
-   
   </p>
 
  
