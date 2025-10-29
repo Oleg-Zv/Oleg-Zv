@@ -4,9 +4,9 @@
   <!-- стрелки от узла: влево -> Telegram, вправо -> Email (центрированный узел NETWORK) -->
   <p align="center" style="margin:6px 0 8px0 ;">
     <a href="https://t.me/ganst_13"><img src="https://img.shields.io/badge/Telegram-ganst_13-000000?style=for-the-badge&logo=telegram&logoColor=39FF14" alt="telegram" /></a>
-    <span style="color:#39FF14; font-weight:800; font-size:28px;">◀───</span>
+    <span style="color:#39FF14; font-weight:800; font-size:28px;">◀──────</span>
     <img src="https://img.shields.io/badge/NETWORK-000000?style=for-the-badge&logo=ghost&logoColor=39FF14" alt="network-center" />
-    <span style="color:#39FF14; font-weight:800; font-size:25px;">──────▶</span>
+    <span style="color:#39FF14; font-weight:800; font-size:25px;">────▶</span>
     <a href="mailto:argumentoleg@gmail.com"><img src="https://img.shields.io/badge/Email-argumentoleg%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="email" /></a>
   </p>
 
