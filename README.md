@@ -1,5 +1,5 @@
 <!-- ===== INTRO (в стиле паутины) — network с исходящими стрелками к Telegram (влево) и Email (вправо) ===== -->
-<!-- <div align="center"> -->
+ <div align="center">
 
   <!-- стрелки от узла: влево -> Telegram, вправо -> Email (центрированный узел NETWORK) -->
   <p align="center" style="margin:6px 0 8px0 ;">
@@ -9,7 +9,7 @@
     <span style="color:#39FF14; font-weight:800; font-size:25px;">────▶</span>
     <a href="mailto:argumentoleg@gmail.com"><img src="https://img.shields.io/badge/Email-argumentoleg%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="email" /></a>
   </p>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- центральный ряд: role -> hi_i'am_Oleg <- focus (как было) -->
   <p align="left" style="margin:6px 0 8px 0;">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -22,7 +22,7 @@
 
  
 
-<!-- </div> -->
-<!-- ===== конец intro ===== -->
+</div> 
+
 
 
