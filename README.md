@@ -14,7 +14,7 @@
   <p align="left" style="margin:6px 0 8px 0;">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Role-Middle%20Java%20Developer-000000?style=for-the-badge&logo=openjdk&logoColor=39FF14" alt="role" />
-    <span style="color:#39FF14; font-weight:700; font-size:18px;">────▶</span>
+    <span style="color:#39FF14; font-weight:700; font-size:18px;">──▶</span>
     <img src="https://img.shields.io/badge/●%20hi_i'am_Oleg-000000?style=for-the-badge&logo=ghost&logoColor=39FF14" alt="hi" />
     <span style="color:#39FF14; font-weight:700; font-size:18px;">◀───</span>
     <img src="https://img.shields.io/badge/Focus-Backend%20|%20Testing-000000?style=for-the-badge&logo=linux&logoColor=39FF14" alt="focus" />
