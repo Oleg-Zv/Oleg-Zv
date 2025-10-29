@@ -1,3 +1,7 @@
+
+ 
+
+ <img src="https://i.postimg.cc/g24H8DF4/4804703a782bc8bdec558c7a0885ff06-2-2-2.jpg" width="44%" align="left" />
  <div align="center">
 
   <!-- стрелки от узла: влево -> Telegram, вправо -> Email (центрированный узел NETWORK) -->
@@ -18,7 +22,5 @@
     <span style="color:#39FF14; font-weight:700; font-size:18px;">◀──</span>
     <img src="https://img.shields.io/badge/Focus-Backend%20|%20Testing-000000?style=for-the-badge&logo=linux&logoColor=39FF14" alt="focus" />
   </p>
-
- 
 
 </div>
