@@ -1,4 +1,11 @@
-<!-- ===== INTRO (в стиле паутины) — network с исходящими стрелками к Telegram (влево) и Email (вправо) ===== -->
+<div align="center">
+
+<!-- Фото слева -->
+<img src="https://i.postimg.cc/g24H8DF4/4804703a782bc8bdec558c7a0885ff06-2-2-2.jpg" width="64%" align="left" />
+
+<!-- Пустое пространство чтобы опустить паутину -->
+<div style="height: 150px"></div>
+
  <div align="center">
 
   <!-- стрелки от узла: влево -> Telegram, вправо -> Email (центрированный узел NETWORK) -->
@@ -22,7 +29,4 @@
 
  
 
-</div> 
-
-
-
+</div>
